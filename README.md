@@ -1,4 +1,7 @@
 ## Hi there 👋
+Soy tony
+Estudio Ing sistemas
+Vamos a programar
 
 <!--
 **tonygar16/tonygar16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
